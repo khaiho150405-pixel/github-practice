@@ -1,2 +1,2 @@
 Welcome to GitHub Practice!
-Let's learn Git!
+Enjoy your coding!
